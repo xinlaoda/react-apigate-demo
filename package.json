@@ -1,8 +1,8 @@
 {
-  "name": "react-amazon-transcribe-streaming",
+  "name": "react-apigateway-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qasim9872.github.io/react-amazon-transcribe-streaming-demo",
+  "homepage": "https://github.com/xinlaoda/react-apigateway-demo.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
